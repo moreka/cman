@@ -22,3 +22,9 @@ server.pid
 
 .DS_Store
 ._*
+
+bower_components
+.sbtserver/
+project/.sbtserver
+project/.sbtserver.lock
+
